@@ -1,0 +1,3 @@
+alguns programas por algum motivo não funcionam corretamete
+quando você os inicia pelo arquivo, mas funcionam normalmente quando 
+os inicia pelo compilador(estou usando o dev c++)
